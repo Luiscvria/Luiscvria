@@ -6,16 +6,16 @@
   - [Wireshark Lab](https://github.com/Luiscvria/WiresharkForBeginners)
   - Tcpdump Lab
 - <b>Security</b>
-   - SIEM in Azure Lab - Upcoming upload Sep, 2023
-  - [Vulnerability Management Lab](https://github.com/Luiscvria/VulnerabilityManagementLab)| Upload coming Oct, 2023
+   - SIEM in Azure Lab - Upcoming upload Nov, 2023
+  - [Vulnerability Management Lab](https://github.com/Luiscvria/VulnerabilityManagementLab)
 - <b>Windows</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
  - <b>Python</b>
-   - Upcoming Python Lab | Oct, 2023
+   - Upcoming Python Lab | Nov, 2023
   
  - <b>SQL</b>
-   - Upcoming SQL Lab | Oct, 2023
+   - Upcoming SQL Lab | Nov, 2023
 
 <h2> Certifications:</h2>
 
