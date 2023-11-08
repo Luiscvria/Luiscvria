@@ -6,7 +6,6 @@
   - [Wireshark Lab](https://github.com/Luiscvria/WiresharkForBeginners)
   - Tcpdump Lab
 - <b>Security</b>
-   - SIEM in Azure Lab - Upcoming upload Nov, 2023
   - [Vulnerability Management Lab](https://github.com/Luiscvria/VulnerabilityManagementLab)
 - <b>Windows</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
