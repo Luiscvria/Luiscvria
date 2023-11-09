@@ -2,13 +2,10 @@
 
 <h2> Cybersecurity Projects:</h2>
 
-- <b>Network Security & Traffic Analysis</b>
-  - [Wireshark Lab](https://github.com/Luiscvria/WiresharkForBeginners)
-  - Tcpdump Lab
 - <b>Security</b>
   - [Vulnerability Management Lab](https://github.com/Luiscvria/VulnerabilityManagementLab)
-- <b>Windows</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Wireshark Lab](https://github.com/Luiscvria/WiresharkForBeginners)
 
  - <b>Python</b>
    - Upcoming Python Lab | Nov, 2023
