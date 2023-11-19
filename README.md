@@ -21,6 +21,7 @@
  - [CompTIA Sec+](https://www.credly.com/badges/4e6b36e6-d838-4fdd-88cc-20c0128b06d0)
  - CompTIA CySA+ | In progress - Expected Completion Nov, 2023
  - [THM SOC Level 1](https://tryhackme.com/paths) | Expected Completion Nov, 2023
+<img src="https://tryhackme-badges.s3.amazonaws.com/astroswim.png" alt="TryHackMe">
 
 <h2> Connect with me on LinkedIn!</h2>
 
