@@ -5,9 +5,11 @@
 - <b>Security</b>
   - [Vulnerability Management Lab](https://github.com/Luiscvria/VulnerabilityManagementLab)
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Wireshark Lab](https://github.com/Luiscvria/WiresharkForBeginners)
+  - [Wireshark for Beginners: Packet Capture](https://coursera.org/share/762bf69e11e479ded9077753910cca73)
+  - [Analyze Network Traffic with TCPDump](https://coursera.org/share/4d958852e4c7948e8d74652c8ac99ae8)
 
  - <b>Python</b>
+   - [Intro to Python for Cybersecurity](https://coursera.org/share/d575fd86dbd662b1b01905073023e143)
    - [Encryption with Python: Encrypt Data with Key Pairs](https://coursera.org/share/47b3f55043321d30daa1839890c60353) 
   
  - <b>SQL</b>
