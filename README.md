@@ -8,7 +8,7 @@
   - [Wireshark Lab](https://github.com/Luiscvria/WiresharkForBeginners)
 
  - <b>Python</b>
-   - Upcoming Python Lab | Nov, 2023
+   - [Encryption with Python: Encrypt Data with Key Pairs](https://coursera.org/share/47b3f55043321d30daa1839890c60353) 
   
  - <b>SQL</b>
    - Upcoming SQL Lab | Nov, 2023
