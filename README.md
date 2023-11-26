@@ -12,6 +12,7 @@
    - [Intro to Python for Cybersecurity](https://coursera.org/share/d575fd86dbd662b1b01905073023e143)
    - [Encryption with Python: Encrypt Data with Key Pairs](https://coursera.org/share/47b3f55043321d30daa1839890c60353)
    - [Python Scripting for DevOps](https://coursera.org/share/a81cfc28160eaaa99be0fddcb3600cf9)
+   - [Create Python Linux Script to Generate a Disk Usage Report](https://coursera.org/share/01fec09a117484a1f9fc0e76fc19455f) 
   
  - <b>SQL</b>
    - Upcoming SQL Lab | Nov, 2023
