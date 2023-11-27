@@ -14,6 +14,7 @@
    - [Python Scripting for DevOps](https://coursera.org/share/a81cfc28160eaaa99be0fddcb3600cf9)
    - [Create Python Linux Script to Generate a Disk Usage Report](https://coursera.org/share/01fec09a117484a1f9fc0e76fc19455f)
    - [Write your own Python tool to footprint a web application](https://coursera.org/share/caba3fd8da3300eee7fa5d62d96f8972)
+   - [Develop your first Python Program](https://coursera.org/share/36a9dcd2121f1011913cad0a0268cbbd)
   
  - <b>SQL</b>
    - Upcoming SQL Lab | Nov, 2023
