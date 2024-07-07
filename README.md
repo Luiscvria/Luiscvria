@@ -4,12 +4,13 @@
 
 - <b>Data Analysis (SQL, Excel, PowerBI)</b>
    - [Toman Bike Shop - Data Analysis Project](https://github.com/Luiscvria/Data-Analysis---Bike-Shop-Project-)
+   - Brazilian Jiu Jitsu (BJJ) Data Analysis Project - Coming soon!  
      
 - <b>Cyber Security</b>
   - [Vulnerability Management Lab](https://github.com/Luiscvria/VulnerabilityManagementLab)
   - [Wireshark for Beginners: Packet Capture](https://coursera.org/share/762bf69e11e479ded9077753910cca73)
   - [Analyze Network Traffic with TCPDump](https://coursera.org/share/4d958852e4c7948e8d74652c8ac99ae8)
-
+    
  - <b>Python</b>
    - [Intro to Python for Cybersecurity](https://coursera.org/share/d575fd86dbd662b1b01905073023e143)
    - [Encryption with Python: Encrypt Data with Key Pairs](https://coursera.org/share/47b3f55043321d30daa1839890c60353)
@@ -17,7 +18,9 @@
    - [Create Python Linux Script to Generate a Disk Usage Report](https://coursera.org/share/01fec09a117484a1f9fc0e76fc19455f)
    - [Write your own Python tool to footprint a web application](https://coursera.org/share/caba3fd8da3300eee7fa5d62d96f8972)
    - [Develop your first Python Program](https://coursera.org/share/36a9dcd2121f1011913cad0a0268cbbd)
-  
+
+  - <b>C++</b>
+     - Coming Soon!  
 <h2> Certifications:</h2>
 
  - [CompTIA A+](https://www.credly.com/earner/earned/badge/d71ce4f0-2f73-48b4-ac64-a7866bb90923)
