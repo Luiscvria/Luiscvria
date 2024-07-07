@@ -15,8 +15,8 @@
    - [Write your own Python tool to footprint a web application](https://coursera.org/share/caba3fd8da3300eee7fa5d62d96f8972)
    - [Develop your first Python Program](https://coursera.org/share/36a9dcd2121f1011913cad0a0268cbbd)
   
- - <b>SQL</b>
-   - Upcoming SQL Lab | Nov, 2023
+ - <b>Data Analysis (SQL, Excel, PowerBI)</b>
+   - [Vulnerability Management Lab](https://github.com/Luiscvria/VulnerabilityManagementLab)
 
 <h2> Certifications:</h2>
 
