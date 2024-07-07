@@ -16,7 +16,7 @@
    - [Develop your first Python Program](https://coursera.org/share/36a9dcd2121f1011913cad0a0268cbbd)
   
  - <b>Data Analysis (SQL, Excel, PowerBI)</b>
-   - [Vulnerability Management Lab](https://github.com/Luiscvria/VulnerabilityManagementLab)
+   - [Vulnerability Management Lab](https://github.com/Luiscvria/Data-Analysis---Bike-Shop-Project-)
 
 <h2> Certifications:</h2>
 
