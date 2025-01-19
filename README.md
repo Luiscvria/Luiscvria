@@ -13,10 +13,9 @@
   - [Vulnerability Management Lab](https://github.com/Luiscvria/VulnerabilityManagementLab)
   - [Wireshark for Beginners: Packet Capture](https://coursera.org/share/762bf69e11e479ded9077753910cca73)
   - [Analyze Network Traffic with TCPDump](https://coursera.org/share/4d958852e4c7948e8d74652c8ac99ae8)
-    
 
-  - <b>C++</b>
-     - Coming Soon!  
+- <b>C++</b>
+   - Coming Soon!  
 <h2> Certifications:</h2>
 
  - [CompTIA A+](https://www.credly.com/earner/earned/badge/d71ce4f0-2f73-48b4-ac64-a7866bb90923)
