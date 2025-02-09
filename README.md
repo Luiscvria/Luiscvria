@@ -22,6 +22,7 @@
  - [CompTIA Sec+](https://www.credly.com/badges/4e6b36e6-d838-4fdd-88cc-20c0128b06d0)
  - [Write your own Python tool to footprint a web application](https://coursera.org/share/caba3fd8da3300eee7fa5d62d96f8972)
  - [Develop your first Python Program](https://coursera.org/share/36a9dcd2121f1011913cad0a0268cbbd)
+ - [Python Basics - Coursera](https://www.coursera.org/account/accomplishments/certificate/B00C11P4YYWW).
 <img src="https://tryhackme-badges.s3.amazonaws.com/astroswim.png" alt="TryHackMe">
 
 <h2> Connect with me on LinkedIn!</h2>
